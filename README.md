@@ -63,11 +63,11 @@ Sales-Revenue-Dashboard
 ```
 
 ## Screenshots
-  ## kpi cards
+  kpi cards
   <img width="1862" height="967" alt="kpi" src="https://github.com/user-attachments/assets/47bcc730-51cc-451d-8b41-1f7ba72fffd3" />
-  ## heat map
+  heat map
   <img width="1902" height="1025" alt="heat map" src="https://github.com/user-attachments/assets/6a200aaf-6405-4ef6-adb7-fa2829731caa" />
-  ## graphs
+  graphs
   <img width="1906" height="1017" alt="graphs" src="https://github.com/user-attachments/assets/cbe807e9-8ee4-4130-ad97-25292b7e7708" />
 
 ## Author
